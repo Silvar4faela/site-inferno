@@ -1,7 +1,18 @@
-    header{
-     background-color:#f30769;  
+    .cabeçario {
+   
+        background-color:#f30769;  
      color: white;
-
+   display: flex;
+    justify-content: space-around;
  }
 
+
+ .cabeçario-imagem { 
+ width: 20%;
+
+ }
  
+ .cabeçario-item-lista {
+    display: inline-block;
+ }
+
